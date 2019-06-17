@@ -1,0 +1,17 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\AT.Properties.Resources.resources
+obj\Debug\AT.csproj.GenerateResource.Cache
+bin\Debug\AT.exe
+bin\Debug\AT.pdb
+obj\Debug\AT.exe
+obj\Debug\AT.pdb
+obj\Debug\AT.Login.resources
+bin\Debug\IrisMenu.dll
+obj\Debug\AT.Connection.resources
+obj\Debug\AT.MainFrom.resources
+obj\Debug\AT.BaoCaoKinhDoanh.resources
+obj\Debug\AT.KhachHang.resources
+obj\Debug\AT.NhanVien.resources
+obj\Debug\AT.Quan_Ly_Gio_Lam.resources
+obj\Debug\AT.QuanLyKho.resources
+obj\Debug\AT.TienLuongNhanCong.resources
